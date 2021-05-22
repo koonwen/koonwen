@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koonwen
-- 👀 I’m interested in Embedded Systems and Web Development
+- 👀 I’m interested in Operating Systems and Web Development
 - 🌱 I’m currently learning how to be effective in C
 - 💞️ I’m looking to collaborate on projects that work on Embedded systems
 - 📫 Reach me at my email: koonwen@gmail.com
