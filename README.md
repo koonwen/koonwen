@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @koonwen
-- 👀 I’m interested in Operating Systems and Web Development
+- 👋 Hi, I’m Koonwen!
+- 👀 I’m interested in Operating Systems, Backend Web development and Deployment
 - 🌱 I’m currently learning how to be effective in C
 - 💞️ I’m looking to collaborate on projects that work on Embedded systems
 - 📫 Reach me at my email: koonwen@gmail.com
@@ -19,9 +19,9 @@ August 2020 - December 2020 (3 months)
   4. Basic data structures: Stacks, queues, lists, trees
   5. Advanced topics: self balancing trees (RB-tree), Dynamic Progeramming (knapsack problem)
   6. Unique features: Programming paradigm was primarily functional, pattern matching
-* Introduction to Python
+* Introduction to Python 
   1. Basic syntax, variables/arguments, control flow, loops, recursion, functions, types, references
-* Computer Vision Study Group (Python/Pytorch)
+* Computer Vision Study Group (Python/Pytorch) 
   1. Machine learning high level overview
   2. Le-NET-5 implementation
 * Data science 101 (DS101 by Hackwagon 1 month)
