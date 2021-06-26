@@ -18,7 +18,7 @@ August 2020 - December 2020 (3 months)
   3. Basic sorting algorithms: Insertion sort, Merge sort, Quicksort
   4. Basic data structures: Stacks, queues, lists, trees
   5. Advanced topics: self balancing trees (RB-tree), Dynamic Progeramming (knapsack problem)
-  6. Unique features: Programming paradigm was primarily functional, pattern matching
+  [Unique features: Programming paradigm was primarily functional, pattern matching]
 * Introduction to Python 
   1. Basic syntax, variables/arguments, control flow, loops, recursion, functions, types, references
 * Computer Vision Study Group (Python/Pytorch) 
@@ -65,7 +65,7 @@ January 2021 - May 2021 (4 months)
   8. Dynamic programming (Tabular and Memoization): Rod Cutting, Matrix-Chain multiplication
   9. Greedy Algorithms: Huffman coding
   10. Graph implementations/algorithms: BFS, DFS, Bellman-Ford, Ford-Fulkerson Dijkstra's algorithm, Max-flow/Min-Cut
-  11. Unique features: Programming paradigm, Object-oriented.
+  [Unique features: Programming paradigm, Object-oriented.]
 * Programming Operating Systems, Interfaces, Xtras (POSIX)
   1. Intro to C/C++, Make and compilation
   2. Intro to operating systems and open source (Linux)
