@@ -83,6 +83,17 @@ May 2021 - August 2021:
   3. Learnt about linux filesystem, drivers, devices, processes, kernel, networking
   4. Learnt cross compilation onto ARM-processor
   5. Learning UNIX sysadmin skills
+* Realtime Occupancy Counter (Personal project)
+  1. Built webpage for hosting number of people identified within captured image frame (Python Flask framework)
+  2. Wrote Python program running on Raspberry Pi to capture and process images and send data to the cloud server
+  3. Configured cloud server and set up Nginx and website certificates
+  4. Implemented CI/CD with Travis CI on webpage code with unit tests
+  5. Added telebot service running on raspberry pi to return status information
+
+August 2021 - November:
+* Programming Language Design and Implementation (OCaml)
+* Parallel Concurrent & Distributed Programming
+* Software Engineering
 <!---
 koonwen/koonwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
