@@ -2,22 +2,9 @@
     "main_branch_name": "main",
     "prefix_rules": {
 	"default_channel": "testing",
-	"filter_main_branch": true,
-	"rules": [
-            {
-		"match": [
-                    "backend/testing"
-		],
-		"channel": "testing"
-	    }
-	]
+	"rules": []
     },
     "label_rules": {
-	"rules" : [
-	    "match": [
-		"testing"
-	    ],
-	    "channel": "testing"
-	]
+	"rules" : []
     },
 }
