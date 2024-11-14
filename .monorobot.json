@@ -1,10 +1,24 @@
 {
-    "main_branch_name": "main",
-    "prefix_rules": {
-	"default_channel": "testing",
-	"rules": []
-    },
-    "label_rules": {
-	"rules" : []
-    },
+  "main_branch_name": "main",
+  "prefix_rules": {
+    "default_channel": "testing",
+    "rules": [
+      {
+        "match": [
+          "backend"
+        ],
+        "channel": "backend"
+      }
+    ]
+  },
+  "label_rules": {
+    "rules": [
+      {
+        "match": [
+          "backend"
+        ],
+        "channel": "backend"
+      }
+    ]
+  }
 }
